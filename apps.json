@@ -1,0 +1,28 @@
+{
+ "v": 1,
+ "note": "List shown inside our apps under \"Our other apps\" / \"More games\". Add a new app here; no app rebuild needed. Only play.google.com links are opened.",
+ "apps": [
+  {
+   "id": "pk.marqoom.app",
+   "name": "Marqoom",
+   "kind": "app",
+   "url": "https://play.google.com/store/apps/details?id=pk.marqoom.app",
+   "tag": {
+    "en": "Khata book, udhar and cash book",
+    "ur": "ادھار کھاتہ اور روزنامچہ",
+    "hi": "उधार खाता और कैश बुक"
+   }
+  },
+  {
+   "id": "pk.arslan.homeprint",
+   "name": "Homeprint",
+   "kind": "app",
+   "url": "https://play.google.com/store/apps/details?id=pk.arslan.homeprint",
+   "tag": {
+    "en": "Home details ready for an emergency",
+    "ur": "گھر کی ضروری معلومات ایک جگہ",
+    "hi": "घर की ज़रूरी जानकारी एक जगह"
+   }
+  }
+ ]
+}
