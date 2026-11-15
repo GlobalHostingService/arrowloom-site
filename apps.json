@@ -23,6 +23,28 @@
     "ur": "گھر کی ضروری معلومات ایک جگہ",
     "hi": "घर की ज़रूरी जानकारी एक जगह"
    }
+  },
+  {
+   "id": "pk.maqsoom.app",
+   "name": "Maqsoom",
+   "kind": "app",
+   "url": "https://play.google.com/store/apps/details?id=pk.maqsoom.app",
+   "tag": {
+    "en": "Split shared expenses fairly",
+    "ur": "مل کر خرچ کا حساب برابر",
+    "hi": "साझा खर्च का बराबर हिसाब"
+   }
+  },
+  {
+   "id": "pk.mazroof.app",
+   "name": "Mazroof",
+   "kind": "app",
+   "url": "https://play.google.com/store/apps/details?id=pk.mazroof.app",
+   "tag": {
+    "en": "Order book for online sellers",
+    "ur": "آن لائن سیلرز کی آرڈر بک",
+    "hi": "ऑनलाइन सेलर्स की ऑर्डर बुक"
+   }
   }
  ]
 }
