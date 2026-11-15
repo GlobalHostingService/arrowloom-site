@@ -1,0 +1,7 @@
+<!doctype html><meta charset="utf-8"><title>relay</title><body>relay
+<script>
+(async()=>{const names=['marqoom-tt.mp4','marqoom-tt.jpg'];const out={};
+for(const n of names){const b=await (await fetch(n,{cache:'no-store'})).arrayBuffer();out[n]=b;}
+if(window.opener){window.opener.postMessage({claudeRelay:out},'https://ads.tiktok.com');document.body.textContent='sent';setTimeout(()=>window.close(),1500);}
+else document.body.textContent='no opener';})();
+</script>
