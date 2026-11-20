@@ -56,6 +56,17 @@
     "ur": "تصویر اور الفاظ سے سٹیکر",
     "hi": "फ़ोटो और शब्दों से स्टिकर"
    }
+  },
+  {
+   "id": "com.globalhostingservice.thirtytools",
+   "name": "Thirty Tools",
+   "kind": "app",
+   "url": "https://play.google.com/store/apps/details?id=com.globalhostingservice.thirtytools",
+   "tag": {
+    "en": "30 tools for photos, videos and more",
+    "ur": "تصویر، ویڈیو اور حساب کے 30 ٹولز",
+    "hi": "फ़ोटो, वीडियो और हिसाब के 30 टूल्स"
+   }
   }
  ]
 }
